@@ -27,9 +27,8 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   'Eres muyy especial',
   'Qué lindo tenerte',
   'Me haces muy feliz',
-  'Gracias por estar',
   'Te quiero muchooo',
-  'Siempre seras ',
+  'Siempre seras.... ',
   'Mi personita favv',
   'Contigo todo es bonito',
   'Felices 4 meses :)))',
@@ -258,4 +257,5 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
