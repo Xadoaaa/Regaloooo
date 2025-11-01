@@ -23,10 +23,17 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   // Followers - Cambiar mensajes
   const messages = [
     'Esta flor es para ti :)',
-    'Gracias por todooooo',
-    '¡Eres muyy especial!',
-    '¡Feliz mes ❤️!!!!!!!!',
-    'Te amoooooooo'
+  'Gracias por tanto',
+  'Eres muyy especial',
+  'Qué lindo tenerte',
+  'Me haces muy feliz',
+  'Gracias por estar',
+  'Te quiero muchooo',
+  'Siempre seras ',
+  'Mi personita favv',
+  'Contigo todo es bonito',
+  'Felices 4 meses :)))',
+  'Te amo Danae❤️❤️'
   ];
   
   var wrapper = document.querySelector('.wrapper');
@@ -251,3 +258,4 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
